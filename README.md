@@ -1,4 +1,4 @@
 # google-homepage
-Easy Version: Google Project
+<title>Google Project</title>
 <title>Easy Version</title>
-<link href="theodinproject.com">
+<a href="http://www.theodinproject.com/web-development-101/html-css">The Odin Project</a>
