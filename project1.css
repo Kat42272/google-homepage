@@ -1,0 +1,29 @@
+.bottomnav {
+  background-color: #000;
+  width: 100%;
+  height: 50px;
+  position: fixed;
+  bottom: 0px;
+}
+
+img {
+  height: 92px;
+  width: 272px;
+  display: block;
+  margin: 150px auto 0 auto;
+}
+
+.form-control {
+    height: 25px;
+    max-width: 350px;
+    margin: auto;
+}
+
+.search {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
